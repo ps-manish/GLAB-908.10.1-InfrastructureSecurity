@@ -38,18 +38,18 @@ In this GitHub lab, we will explore the similarities between IT infrastructure a
 
 Here are some possible room ideas for the houses:
 
-Foundation Room: This room represents the foundational elements of IT infrastructure security, such as servers and network components. The group can draw a room that has sturdy walls and is located in a secure part of the house.
+***Foundation Room:*** This room represents the foundational elements of IT infrastructure security, such as servers and network components. The group can draw a room that has sturdy walls and is located in a secure part of the house.
 
-Access Control Room: This room represents the access control measures used to ensure that only authorized personnel can access sensitive data and systems. The group can draw a room with a security keypad, biometric scanner, or other access control methods.
+***Access Control Room:*** This room represents the access control measures used to ensure that only authorized personnel can access sensitive data and systems. The group can draw a room with a security keypad, biometric scanner, or other access control methods.
 
-Security Camera Room: This room represents the use of security cameras to monitor and identify potential security breaches. The group can draw a room that has multiple security cameras installed in various parts of the house.
+***Security Camera Room:*** This room represents the use of security cameras to monitor and identify potential security breaches. The group can draw a room that has multiple security cameras installed in various parts of the house.
 
-Maintenance and Inspections Room: This room represents regular maintenance and audits conducted to identify and address any vulnerabilities. The group can draw a room that has tools and equipment used for regular maintenance and inspections.
+***Maintenance and Inspections Room:*** This room represents regular maintenance and audits conducted to identify and address any vulnerabilities. The group can draw a room that has tools and equipment used for regular maintenance and inspections.
 
-Multi-Factor Authentication Room: This room represents the use of multi-factor authentication methods to verify user identity and prevent unauthorized access. The group can draw a room that has multiple authentication methods, such as a security code, a smart card, or a fingerprint scanner.
+***Multi-Factor Authentication Room:*** This room represents the use of multi-factor authentication methods to verify user identity and prevent unauthorized access. The group can draw a room that has multiple authentication methods, such as a security code, a smart card, or a fingerprint scanner.
 
-Disaster Recovery Plan Room: This room represents the disaster recovery plans put in place to prepare for emergencies such as natural disasters or cyber attacks. The group can draw a room that has backup power sources, data backups, and other disaster recovery equipment.
+***Disaster Recovery Plan Room:*** This room represents the disaster recovery plans put in place to prepare for emergencies such as natural disasters or cyber attacks. The group can draw a room that has backup power sources, data backups, and other disaster recovery equipment.
 
-Education and Training Room: This room represents the education and training that IT infrastructure personnel receive to follow security protocols and best practices. The group can draw a room that has books, training materials, and other educational resources.
+***Education and Training Room:*** This room represents the education and training that IT infrastructure personnel receive to follow security protocols and best practices. The group can draw a room that has books, training materials, and other educational resources.
 
 By incorporating these essential IT infrastructure security concepts into the design of their homes, learners can visualize the importance of these security measures and understand how they can be applied in real-world scenarios.
